@@ -13,5 +13,10 @@
 # This method should accept three arguments, the library hash, the artist, and the song.
 
 
+def list_artists
+
+
+
+
 
 
