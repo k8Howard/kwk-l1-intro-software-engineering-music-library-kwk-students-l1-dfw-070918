@@ -26,7 +26,7 @@ end
 
 
 def delete_artist (library, artist)
-  library.delete(:artist)
+  library.delete(artist)
   return library
 end
 
