@@ -12,8 +12,8 @@ end
 # This method should accept a hash as an argument.
 
 def list_songs (library)
-  library.each_key {|keys|
-  puts keys
+  library.each_key {|value|
+  puts value
   }
 end
 
